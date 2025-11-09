@@ -6,24 +6,24 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Izabela Ribeiro Câmara
+- Matricula: 737464
+- Proposta de projeto escolhida:  Lugares e Experiências
+- Breve descrição sobre seu projeto: O projeto "Visit BH" é um guia digital e interativo sobre os pontos turísticos de Belo Horizonte.
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+<< COLOQUE A IMAGEM GET AQUI >> ![alt text](<Captura de tela 2025-11-09 202405.png>)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+<< COLOQUE A IMAGEM POST AQUI >> ![alt text](<Captura de tela 2025-11-09 202545.png>)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+<< COLOQUE A IMAGEM PUT AQUI >> ![alt text](<Captura de tela 2025-11-09 202757.png>)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+<< COLOQUE A IMAGEM DELETE AQUI >> ![alt text](<Captura de tela 2025-11-09 202939.png>)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >> ![alt text](<Captura de tela 2025-11-09 203757.png>)
 
 ## **Orientações Gerais**
 
